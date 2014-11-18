@@ -1,0 +1,3 @@
+Reademe:
+
+This is the code for Othello Project, mainly algorithm for computer player. It uses Heuristic MiniMax with Alpha-Beta Pruning algorithm to get optimal move at each step.
